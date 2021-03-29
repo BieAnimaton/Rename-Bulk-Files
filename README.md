@@ -1,6 +1,6 @@
 # Rename Bulk Files
 
-This project renames a lot of files' name for a single (like "imgs") and create an sequence (increasing numbers).
+This project renames a lot of files name for a single (like "imgs") and create an sequence (increasing numbers).
 
 ## Notes :books:
 - Python programming to train skills.
